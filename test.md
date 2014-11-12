@@ -1,11 +1,9 @@
-Prova di tabella markdown
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| First Header  | Content molto lungo blah
-blha blah |
-| Content Cell Paprap apdd sdasdp  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-Ti piace la tabella?
+|     |     |                                                                                                                                                                                 |
+| --- | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|     |     | Prova di testo lungo
+Magri su piu' righe
+tanto per vedere come se la cava questo genereatore di roba bla cfv dfgdf vdf f fv f df dfv f df df df df vd fsd fdfv
+fdvfvdfv
+dfv     |
+|     |     |                                                                                                                                                                                 |
+|     |     |                                                                                                                                                                                 |
